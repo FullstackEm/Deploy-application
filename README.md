@@ -1,2 +1,2 @@
-# Deploy-application
-Deploying a node application through Heroku using starter code 
+# littletiers
+little tiers
